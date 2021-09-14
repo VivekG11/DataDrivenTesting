@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataDrivenTesting", "DataDrivenTesting\DataDrivenTesting.csproj", "{6A25B1C1-4A8A-43BE-B4A1-6B7C67EDE153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A25B1C1-4A8A-43BE-B4A1-6B7C67EDE153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A25B1C1-4A8A-43BE-B4A1-6B7C67EDE153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A25B1C1-4A8A-43BE-B4A1-6B7C67EDE153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A25B1C1-4A8A-43BE-B4A1-6B7C67EDE153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76A44146-4F20-4A7B-9AA2-DFB9750A7EA3}
+	EndGlobalSection
+EndGlobal
